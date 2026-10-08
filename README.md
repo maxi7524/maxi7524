@@ -19,10 +19,11 @@ I'm passionate about science, particularly how mathematics can be used to descri
 | Area | Projects |
 |---|---|
 | Multi-omics | [MOFA versus PCA](https://github.com/maxi7524/project_bioinformatics_latent_representation_models_MOFA_vs_PCA) |
-| Bioinformatics pipelines | [Protein-data analysis](https://github.com/maxi7524/project_bioinformatics_tools_proteins_data_analyse), [HPC protein workflows](https://github.com/maxi7524/project_bioinformatics_tools_hpc_disordered_proteins_and_ss) |
+| Bioinformatics software | [tAIpipe](https://github.com/NorbertSzala/tAIpipe), shared ADP final project |
 | Computational biology | [Gene-expression noise](https://github.com/maxi7524/project_computational_biology_noise_in_gene_expression), [Boolean-model initial conditions](https://github.com/maxi7524/project_computational_biology_initial_conditions_pymyboss) |
+| Econometrics | [Abalone regression](https://github.com/maxi7524/econometry_project_abalone), shared final project, Summer 2024/2025 |
 | Statistics | [Statistical data analysis](https://github.com/maxi7524/SAD2_final_project) |
-| Genomics and transcriptomics | [TGT project](https://github.com/maxi7524/TGT_project), [TSG project](https://github.com/maxi7524/TSG_project) |
+| Genomics and transcriptomics | [Ancient-DNA experimental design](https://github.com/maxi7524/TGT_project), [TSG project](https://github.com/maxi7524/TSG_project) |
 | Environmental data | [Air-quality analysis](https://github.com/maxi7524/ZTP_projekt3) |
 
 ### Organized collections
@@ -37,4 +38,4 @@ These collections currently require repository access.
 
 ### Upstream forks
 
-[PhysiCell](https://github.com/maxi7524/PhysiCell) · [ADP 2026 course materials](https://github.com/maxi7524/ADP_2026)
+[PhysiCell](https://github.com/maxi7524/PhysiCell)
