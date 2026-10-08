@@ -1,8 +1,10 @@
 ## About Me
+Graduate student in Bioinformatics at the University of Warsaw, with a background in Applied Mathematics.
 
-#TODO
+I'm passionate about science, particularly how mathematics can be used to describe and understand phenomena across different fields.
 
 ## Repository Index
+*Work in progress*
 
 ### Research and software
 
