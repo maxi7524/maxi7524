@@ -40,6 +40,3 @@ I'm passionate about science, particularly how mathematics can be used to descri
 |---|---|
 | [Coursework](https://github.com/maxi7524/coursework) | Completed courses and workshops, indexed by course and semester |
 | [Side projects](https://github.com/maxi7524/side-projects) | Numerical and computational-biology explorations |
-| [Personal workspace](https://github.com/maxi7524/personal-workspace) | Private active courses, study notes and personal analyses |
-
-Collections currently require repository access. Coursework will become public after final content and history review.
