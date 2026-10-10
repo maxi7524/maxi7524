@@ -31,6 +31,7 @@ I'm passionate about science, particularly how mathematics can be used to descri
 | Econometrics and regression | [Abalone age prediction](https://github.com/maxi7524/econometry_project_abalone), shared Econometrics final project, Summer 2024/2025 |
 | Ancient-DNA experimental design | [Shared experiment-planning project](https://github.com/maxi7524/TGT_project) |
 | Environmental data analysis | [Air-quality analysis](https://github.com/maxi7524/ZTP_projekt3) |
+| Sleep and circadian rhythms | [Cat sleep analysis](https://github.com/maxi7524/side-projects/tree/main/projects/cat-sleep-analysis) |
 | Heat transfer and cooking models | [Frying estimator](https://github.com/maxi7524/side-projects/tree/main/projects/frying-estimator) |
 | Single-cell perturbation modeling | [Virtual Cell Challenge 2025](https://github.com/maxi7524/side-projects/tree/main/projects/virtual-cell-challenge), **180th / 337 teams**; single-cell/GEARS exploration |
 
